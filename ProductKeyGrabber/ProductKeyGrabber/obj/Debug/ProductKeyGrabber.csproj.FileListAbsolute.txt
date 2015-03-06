@@ -1,0 +1,10 @@
+C:\Documents and Settings\lphilipsen\My Documents\SharpDevelop Projects\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lphilipsen\My Documents\SharpDevelop Projects\ProductKeyGrabber\ProductKeyGrabber\bin\Debug\ProductKeyGrabber.exe
+C:\Documents and Settings\lphilipsen\My Documents\SharpDevelop Projects\ProductKeyGrabber\ProductKeyGrabber\bin\Debug\ProductKeyGrabber.pdb
+C:\Documents and Settings\lphilipsen\My Documents\SharpDevelop Projects\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ProductKeyGrabber.exe
+C:\Documents and Settings\lphilipsen\My Documents\SharpDevelop Projects\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ProductKeyGrabber.pdb
+C:\Documents and Settings\lphilipsen\Desktop\keykaptain\ProductKeyGrabber\ProductKeyGrabber\bin\Debug\ProductKeyGrabber.exe
+C:\Documents and Settings\lphilipsen\Desktop\keykaptain\ProductKeyGrabber\ProductKeyGrabber\bin\Debug\ProductKeyGrabber.pdb
+C:\Documents and Settings\lphilipsen\Desktop\keykaptain\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lphilipsen\Desktop\keykaptain\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ProductKeyGrabber.exe
+C:\Documents and Settings\lphilipsen\Desktop\keykaptain\ProductKeyGrabber\ProductKeyGrabber\obj\Debug\ProductKeyGrabber.pdb
